@@ -92,8 +92,8 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103,170,241, 0.1)), color-stop(50%, rgba(103,170,241, 0.5)), to(#67aaf1)) 20%, url("../img/Main-min.jpg");
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(40,130,198, 0.1)), color-stop(75%, rgba(40,130,198, 0.5)), to(#2882C6)), url("../Main-min.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(103,170,241, 0.1)), color-stop(50%, rgba(103,170,241, 0.5)), to(#67aaf1)) 20%, url("../img/Main.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(40,130,198, 0.1)), color-stop(75%, rgba(40,130,198, 0.5)), to(#2882C6)), url("../img/Main.jpg");
   background: linear-gradient(to bottom,  0%, rgba(71, 109, 116, 0.5).5) 75%, #172324 100%), url("");
   background-position: center;
   background-repeat: no-repeat;
