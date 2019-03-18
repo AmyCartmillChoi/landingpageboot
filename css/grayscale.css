@@ -152,7 +152,7 @@
 }
 
 .btn-primary {
-  background-color: #eb33d3;
+  background-color: #f433f4;
 }
 
 .btn-primary:hover {
@@ -204,7 +204,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: yellow;
+    border-color: #eb33d3;
     border-width: .25rem;
     width: 30%;
   }
