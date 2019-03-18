@@ -74,7 +74,7 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: black;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
@@ -204,7 +204,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #eb33d3;
+    border-color: hsl(308, 82%, 56%);
     border-width: .25rem;
     width: 30%;
   }
