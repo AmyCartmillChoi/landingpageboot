@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
  */
 
-#mainNav {
+ #mainNav {
   min-height: 56px;
   background-color: #fff;
 }
@@ -74,7 +74,7 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: black;
+    color: #64a19d;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
@@ -204,7 +204,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: hsl(308, 82%, 56%);
+    border-color: #eb33d3;
     border-width: .25rem;
     width: 30%;
   }
