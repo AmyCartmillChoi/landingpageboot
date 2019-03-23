@@ -308,6 +308,7 @@ a:focus, a:hover {
 
 footer {
   padding: 5rem 0;
+  width: auto;
 }
 
 .text-white{ 
@@ -385,3 +386,4 @@ footer {
   .social {
     padding-bottom: 50px;
   }
+  
